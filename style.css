@@ -146,7 +146,7 @@ html {
     padding: 0 1rem;
 }
 
-.container .video video {
+.container .video iframe {
     width: 100%;
     aspect-ratio: 16/9;
     border-radius: 12px;
@@ -179,9 +179,9 @@ html {
 
 .container .team .profile .profile_image img {
     height: 200px;
-    max-width: 80%; /* Modifica aggiunta */
+    max-width: 80%;
     object-fit: contain;
-    max-height: 180px; /* Modifica aggiunta */
+    max-height: 180px;
     border-radius: 20px;
 }
 

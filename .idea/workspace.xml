@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00da82ea-c8db-4c0d-861c-8dc4cd78b472" name="Changes" comment="Inserimento index.html e style.css" />
+    <list default="true" id="00da82ea-c8db-4c0d-861c-8dc4cd78b472" name="Changes" comment="Inserimento video">
+      <change afterPath="$PROJECT_DIR$/video/demo.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +69,7 @@
       <workItem from="1732816674310" duration="77000" />
       <workItem from="1732816757793" duration="266000" />
       <workItem from="1732817064331" duration="106000" />
-      <workItem from="1732866837707" duration="942000" />
+      <workItem from="1732866837707" duration="5177000" />
     </task>
     <task id="LOCAL-00001" summary="Firt commit">
       <option name="closed" value="true" />
@@ -114,7 +119,87 @@
       <option name="project" value="LOCAL" />
       <updated>1732867769455</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Inserimento immagini">
+      <option name="closed" value="true" />
+      <created>1732867829972</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732867829972</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Inserimento immagini 1">
+      <option name="closed" value="true" />
+      <created>1732867875421</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732867875421</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Inserimento immagini 1">
+      <option name="closed" value="true" />
+      <created>1732867979618</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732867979618</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Inserimento immagini 2">
+      <option name="closed" value="true" />
+      <created>1732868003433</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732868003433</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Inserimento immagini 3">
+      <option name="closed" value="true" />
+      <created>1732868016632</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732868016632</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Inserimento immagini 3">
+      <option name="closed" value="true" />
+      <created>1732868045367</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732868045367</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Inserimento immagini 3">
+      <option name="closed" value="true" />
+      <created>1732868092332</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732868092332</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Inserimento immagini 4">
+      <option name="closed" value="true" />
+      <created>1732868107700</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732868107700</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Inserimento immagini 5">
+      <option name="closed" value="true" />
+      <created>1732868167550</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732868167550</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Inserimento video">
+      <option name="closed" value="true" />
+      <created>1732868372583</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1732868372583</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +209,13 @@
     <MESSAGE value="Firt commit" />
     <MESSAGE value="Commit" />
     <MESSAGE value="Inserimento index.html e style.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inserimento index.html e style.css" />
+    <MESSAGE value="Inserimento immagini" />
+    <MESSAGE value="Inserimento immagini 1" />
+    <MESSAGE value="Inserimento immagini 2" />
+    <MESSAGE value="Inserimento immagini 3" />
+    <MESSAGE value="Inserimento immagini 4" />
+    <MESSAGE value="Inserimento immagini 5" />
+    <MESSAGE value="Inserimento video" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserimento video" />
   </component>
 </project>
