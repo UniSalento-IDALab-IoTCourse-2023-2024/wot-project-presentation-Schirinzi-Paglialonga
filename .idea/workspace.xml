@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00da82ea-c8db-4c0d-861c-8dc4cd78b472" name="Changes" comment="Inserimento video">
-      <change afterPath="$PROJECT_DIR$/video/demo.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -69,7 +67,7 @@
       <workItem from="1732816674310" duration="77000" />
       <workItem from="1732816757793" duration="266000" />
       <workItem from="1732817064331" duration="106000" />
-      <workItem from="1732866837707" duration="5177000" />
+      <workItem from="1732866837707" duration="5831000" />
     </task>
     <task id="LOCAL-00001" summary="Firt commit">
       <option name="closed" value="true" />
@@ -199,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732868372583</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Inserimento video">
+      <option name="closed" value="true" />
+      <created>1732873872940</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1732873872940</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
